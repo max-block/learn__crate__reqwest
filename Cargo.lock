@@ -308,6 +308,7 @@ name = "learn"
 version = "0.1.0"
 dependencies = [
  "reqwest 0.10.8 (registry+https://github.com/rust-lang/crates.io-index)",
+ "serde_json 1.0.57 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
