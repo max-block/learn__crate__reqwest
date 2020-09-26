@@ -1,0 +1,8 @@
+[package]
+authors = ["Max Block <maxblock@pm.me>"]
+edition = "2018"
+name = "learn"
+version = "0.1.0"
+
+[dependencies]
+reqwest = { version = "0.10", features = ["blocking", "json"] }
